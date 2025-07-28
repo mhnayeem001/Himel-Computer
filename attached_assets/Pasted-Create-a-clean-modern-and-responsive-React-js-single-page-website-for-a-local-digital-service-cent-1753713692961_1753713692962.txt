@@ -1,0 +1,87 @@
+Create a clean, modern, and responsive React.js single-page website for a local digital service center called Himel Computer. The website should include a navigation bar with links to the following sections: Home, About, Services, Why Himel Computer, Contact, and a Footer.
+
+Use the following detailed information for each section:
+
+1. 🏠 Home Section
+Headline: Welcome to Himel Computer
+
+Subheadline: Your Trusted Digital & Online Service Partner in Gazipur
+
+Tagline: Fast • Reliable • Affordable
+
+Call to Action Button: Contact Now
+
+2. ℹ️ About Section
+Himel Computer is a full-service digital center based in Kadda Bazar, Ward 13, Gazipur City, owned and operated by MD. Ahsan Habib.
+
+The business offers a range of digital, printing, and online services for students, local businesses, and individuals.
+
+Known for fast delivery, affordability, and personalized customer support.
+
+3. 🛠️ Services Section
+List the following services in a modern grid or bullet layout with simple icons:
+
+Document Composition & Typing
+
+Photocopy
+
+Printing (Black & Color)
+
+Dolil and Deed Writing
+
+Digital Banner Design
+
+Signboard & Poster (Phestun)
+
+Passport Size Photography (Chobi Tola)
+
+Document Laminating (Lemoneting)
+
+Online Birth Registration
+
+College & University Application Support
+
+All Kinds of Online Services
+
+4. 💼 Why Himel Computer Section
+Owner-led operation with years of experience
+
+Affordable pricing
+
+Fast turnaround times
+
+All-in-one solution for print, design, and online needs
+
+Trusted by locals in Gazipur
+
+Convenient physical location and helpful staff
+
+5. 📞 Contact Section
+Include the following contact information:
+
+Address: Kadda Bazar, Ward 13, Gazipur City
+
+Mobile: 01716-433877, 01950-905010
+
+Email: himelcomputerkadda@gmail.com
+
+Facebook Profile (Owner): https://www.facebook.com/share/1B7dF6S26E/?mibextid=wwXIfr
+
+Add clickable links for phone and email, and make sure the Facebook link opens in a new tab.
+
+6. 🔻 Footer Section
+Copyright © 2025 Himel Computer
+
+All Rights Reserved
+
+Website developed by [Your Name or Developer Name]
+
+✅ Technical Notes:
+Use React functional components
+
+Style with Tailwind CSS or CSS Modules (your choice)
+
+Add smooth scroll navigation using react-scroll or similar
+
+Make it responsive and mobile-friendly
+
