@@ -37,12 +37,12 @@ export default function AboutSection() {
 
             {/* New Refined Professional Text */}
             <p>
-              <strong>Himel Computer</strong> is a locally trusted technology service provider based in{" "}
+              <strong>Himel & Chowa Computer</strong> is a locally trusted technology service provider based in{" "}
               <strong>Kadda Bazar, Gazipur City</strong>. Founded by <strong>MD. Ahsan Habib</strong>, we’ve been helping people and businesses navigate the digital world with ease for nearly a decade.
             </p>
 
             <p>
-              Himel Computer is your one-stop hub for essential IT services. We’re committed to delivering dependable support with speed, transparency, and a strong respect for your time and budget.
+              Himel & Chowa Computer is your one-stop hub for essential IT services. We’re committed to delivering dependable support with speed, transparency, and a strong respect for your time and budget.
             </p>
 
             {/* Quote Box */}
