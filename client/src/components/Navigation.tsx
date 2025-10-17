@@ -58,7 +58,7 @@ export default function Navigation() {
               HC
             </div>
             <span className="text-xl font-bold text-gray-900 tracking-tight">
-              Himel Computer
+              Himel & Chowa Computer
             </span>
           </div>
 
