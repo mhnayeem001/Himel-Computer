@@ -44,7 +44,7 @@ export default function HeroSection() {
           <h1 className="text-white font-extrabold text-4xl md:text-5xl lg:text-6xl leading-tight tracking-tight mb-6 relative inline-block">
             Welcome to{" "}
             <span className="text-primary underline decoration-primary/40 decoration-4">
-              Himel Computer
+              Himel & Chowa Computer
             </span>
           </h1>
 
@@ -88,7 +88,7 @@ export default function HeroSection() {
           <button
             onClick={scrollToContact}
             className="group relative inline-flex items-center justify-center bg-primary hover:bg-blue-700 text-white font-semibold text-lg px-10 py-4 rounded-lg shadow-md transition duration-300 transform hover:scale-[1.05] focus:outline-none focus:ring-4 focus:ring-primary/50"
-            aria-label="Contact Himel Computer"
+            aria-label="Contact Himel & Chowa Computer"
           >
             Contact Now
             <svg
