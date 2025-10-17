@@ -8,7 +8,7 @@ export default function Footer() {
 
           {/* Left Column */}
           <div className="space-y-4">
-            <h3 className="text-2xl font-bold">Himel Computer</h3>
+            <h3 className="text-2xl font-bold">Himel & Chowa Computer</h3>
             <p className="text-gray-400 max-w-sm">
               Your Trusted Digital & Online Service Partner in Gazipur.
             </p>
@@ -84,7 +84,7 @@ export default function Footer() {
 
         {/* Bottom copyright */}
         <div className="border-t border-gray-800 mt-12 pt-6 text-center text-gray-400 text-sm">
-          <p>© 2025 Himel Computer. All Rights Reserved.</p>
+          <p>© 2025 Himel & Chowa Computer. All Rights Reserved.</p>
           <p className="text-gray-500 text-xs mt-1">
             Website developed by Mahadi Hasan Nayeem
           </p>
